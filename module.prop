@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=gWatchVirtualHomeButton
+name=G Watch Virtual Home Button
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=TheDevFreak
+description=Virtual Home Button For G Watch
 template=1400
